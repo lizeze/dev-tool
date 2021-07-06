@@ -12,7 +12,7 @@
         <repository>
             <id>github</id>
             <name>zeze.li</name>
-            <url>https://maven.pkg.github.com/xxx996/dev-tool</url>
+            <url>https://maven.pkg.github.com/lizeze/dev-tool</url>
         </repository>
     </distributionManagement>
 </project>
